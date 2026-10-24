@@ -1,0 +1,9 @@
+numbers = [10, 20, 30]
+
+numbers.zappend(40)
+zprint(numbers.zlength())
+
+zprint(numbers.zpop())
+zprint(numbers)
+
+zprint(numbers.zlength())
