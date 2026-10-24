@@ -1,4 +1,5 @@
 # Zython
+#Only for windows
 This is a parody programming language for python
 It can do the following commands:
 "zprint" - "print"
